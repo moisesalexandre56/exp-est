@@ -1,0 +1,15 @@
+{
+  "name": "exp-estudo",
+  "version": "1.0.0",
+  "description": "lista de tarefas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moises alexandre",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "git-all": "^0.0.3"
+  }
+}
